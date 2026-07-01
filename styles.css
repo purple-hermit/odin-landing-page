@@ -84,3 +84,18 @@ button{
     border-radius: 20px;
 }
 
+.quote{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+    color: #1F2937;
+    background-color: #E5E7EB;
+    padding: 150px 130px;
+}
+
+.dio{
+    text-align: right;
+    font-weight: 500;
+}
